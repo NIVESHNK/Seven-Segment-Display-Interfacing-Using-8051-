@@ -1,4 +1,4 @@
-# Seven-Segment-Display-Interfacing-Using-8051
+ # Seven-Segment-Display-Interfacing-Using-8051
 
 ## Aim:
 To interface a seven-segment display with the 8051 microcontroller and display digits 0 to 9 sequentially using an assembly language program in Keil and simulate it in Proteus.
